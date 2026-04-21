@@ -94,5 +94,5 @@ MATCH path=()-[:SIMILAR_TO]->() RETURN path #This should give you a good startin
 
 # Cypher Online Courses
 # Cypher Manual
-# Cypher Cheat-Sheet.
+# Cypher Cheat-Sheet(https://neo4j.com/docs/cypher-cheat-sheet/5/all/).
 
