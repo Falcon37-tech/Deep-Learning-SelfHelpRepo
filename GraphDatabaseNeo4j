@@ -92,7 +92,7 @@ ON CREATE SET sim.weight = similarity
 
 MATCH path=()-[:SIMILAR_TO]->() RETURN path #This should give you a good starting point to see the power of graph queries.
 
-# Cypher Online Courses
-# Cypher Manual
-# Cypher Cheat-Sheet(https://neo4j.com/docs/cypher-cheat-sheet/5/all/).
+# [Cypher Online Courses](https://neo4j.com/docs/cypher-manual/5/clauses/use/)
+# [Cypher Manual]
+# [Cypher Cheat-Sheet](https://neo4j.com/docs/cypher-cheat-sheet/5/all/).
 
