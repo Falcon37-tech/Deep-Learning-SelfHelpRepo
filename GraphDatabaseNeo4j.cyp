@@ -1,4 +1,5 @@
 
+
 '''Open Neo4j using Cypher Query'''
 
 # get a free indtance on 
